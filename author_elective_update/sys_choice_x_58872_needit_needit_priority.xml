@@ -17,7 +17,7 @@
             <element>priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: 1 - Critical</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: CHC: 1 - Critical</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
@@ -33,7 +33,7 @@
             <element>priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: 2 - High</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: CHC: 2 - High</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
@@ -49,7 +49,7 @@
             <element>priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: 3 - Moderate</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: CHC: 3 - Moderate</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -65,7 +65,7 @@
             <element>priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: 4 - Low</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: CHC: 4 - Low</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
@@ -81,7 +81,7 @@
             <element>priority</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: 5 - Planning</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: CHC: 5 - Planning</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>4</sequence>

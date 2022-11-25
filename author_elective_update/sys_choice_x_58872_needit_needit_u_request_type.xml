@@ -17,7 +17,7 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: Human Rsources</label>
+            <label>CHC: CHC: CHC: CHC: Human Rsources</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
@@ -33,7 +33,7 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: Facilities</label>
+            <label>CHC: CHC: CHC: CHC: Facilities</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
@@ -49,7 +49,7 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: Legal</label>
+            <label>CHC: CHC: CHC: CHC: Legal</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -65,7 +65,7 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: Your Department Choice</label>
+            <label>CHC: CHC: CHC: CHC: Your Department Choice</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>

@@ -17,7 +17,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: Pending</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: Pending</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
@@ -33,7 +33,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: Open</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: Open</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
@@ -49,7 +49,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: Requested</label>
+            <label>CHC: CHC: Requested</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
@@ -65,7 +65,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: Awaiting Approval</label>
+            <label>CHC: CHC: Awaiting Approval</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -81,7 +81,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: Work in Progress</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: Work in Progress</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -97,7 +97,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: Approved</label>
+            <label>CHC: CHC: Approved</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
@@ -113,7 +113,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: Closed Complete</label>
+            <label>CHC: CHC: CHC: Closed Complete</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
@@ -129,7 +129,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: Awaiting Feedback</label>
+            <label>CHC: CHC: Awaiting Feedback</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>4</sequence>
@@ -145,7 +145,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: Closed Incomplete</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: Closed Incomplete</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>4</sequence>
@@ -161,7 +161,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: CHC: CHC: CHC: CHC: CHC: Closed Skipped</label>
+            <label>CHC: CHC: CHC: CHC: CHC: CHC: CHC: Closed Skipped</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>5</sequence>
@@ -177,7 +177,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>CHC: Withdrawn</label>
+            <label>CHC: CHC: Withdrawn</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>5</sequence>
